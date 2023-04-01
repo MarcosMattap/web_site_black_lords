@@ -1,1 +1,1 @@
-Aqui serão lançadas as alterações que o colaborador Eduardo Reis fizer.
+Aqui nós podemos lançar informações pertinentes ao que se trata o projeto.
