@@ -1,0 +1,9 @@
+#body {
+    background-color: aqua;
+    background-image: url(/img/fundo.jpg);
+}
+
+.titulo {
+    color: cyan;
+    text-align: center;
+}
